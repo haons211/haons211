@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemael1&label=Profile%20views&color=0e75b6&style=flat" alt="lemael1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemael1" alt="lemael1" /></a> </p>
-
 - 💬 Ask me about **Java,C#**
 
 - 📫 How to reach me **syhaoc2dh@gmail.com**
