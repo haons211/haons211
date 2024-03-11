@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemael1&label=Profile%20views&color=0e75b6&style=flat" alt="lemael1" /> </p>
 
-- 💬 Ask me about **DevOps#**
+- 💬 Ask me about **Backend,DevOps#**
 
 - 📫 How to reach me **syhaoc2dh@gmail.com**
 
