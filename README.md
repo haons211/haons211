@@ -20,12 +20,15 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 
 ### 🚀 Featured Projects
 
-**Projects:**
-- [Vocabulary Saver and Translator](https://github.com/haons211/vocab-save-browser-extension) 🌐 - A browser extension to save vocabulary to Google Sheets for easy tracking. 🚀 (done)
-- [TK_Ecommerce](https://github.com/haons211/TK_Ecommerce) 🛍️ - A Java Spring Boot monolithic eCommerce project designed for seamless online shopping experiences. 🚀 (done)
-- [ishowcode.xyz](https://github.com/vietanhdev/anylabeling) 🌐 - My personal website, showcasing projects, insights, and tech explorations. 🚀 (developing)
-- [Attendance System](https://github.com/haons211/AttendanceSWP391) 🕒 - A time attendance system built with Java Servlet, designed for efficient work time management. 🚀 (done)
+**Developing:**
+- [ishowcode.xyz](https://github.com/vietanhdev/anylabeling) 🌐 - My personal website, showcasing projects, insights, and tech explorations. 🚀
+- [guy-ops-life](https://github.com/haons211/guy-ops-life) 🌐 - A step-by-step journey into the DevOps field—exploring projects, insights, and tech advancements every day. 🚀
+- [Movie Booking System](https://github.com/linhpksw/movie-ticket-booking-system) 🌐 "A Blazor-based movie booking system designed for a seamless ticket reservation experience. 🎬🚀"
 
+**Achieved:**
+- [Vocabulary Saver and Translator](https://github.com/haons211/vocab-save-browser-extension) 🌐 - A browser extension to save vocabulary to Google Sheets for easy tracking. 🚀 
+- [TK_Ecommerce](https://github.com/haons211/TK_Ecommerce) 🛍️ - A Java Spring Boot monolithic eCommerce project designed for seamless online shopping experiences. 🚀 
+- [Attendance System](https://github.com/haons211/AttendanceSWP391) 🕒 - A time attendance system built with Java Servlet, designed for efficient work time management. 🚀 
 ### 📈 GitHub Stats
 
 ![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=haons211&theme=default&show_icons=true&hide_border=false&count_private=true)
