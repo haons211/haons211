@@ -23,9 +23,9 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 **Developing:**
 - [ishowcode.xyz](https://github.com/vietanhdev/anylabeling) 🌐 - My personal website, showcasing projects, insights, and tech explorations. 🚀
 - [guy-ops-life](https://github.com/haons211/guy-ops-life) 🌐 - A step-by-step journey into the DevOps field—exploring projects, insights, and tech advancements every day. 🚀
-- [Movie Booking System](https://github.com/linhpksw/movie-ticket-booking-system) 🌐 "A Blazor-based movie booking system designed for a seamless ticket reservation experience. 🎬🚀"
 
 **Achieved:**
+- [Movie Booking System](https://github.com/linhpksw/movie-ticket-booking-system) 🌐 "A Blazor-based movie booking system designed for a seamless ticket reservation experience. 🎬🚀"
 - [Vocabulary Saver and Translator](https://github.com/haons211/vocab-save-browser-extension) 🌐 - A browser extension to save vocabulary to Google Sheets for easy tracking. 🚀 
 - [TK_Ecommerce](https://github.com/haons211/TK_Ecommerce) 🛍️ - A Java Spring Boot monolithic eCommerce project designed for seamless online shopping experiences. 🚀 
 - [Attendance System](https://github.com/haons211/AttendanceSWP391) 🕒 - A time attendance system built with Java Servlet, designed for efficient work time management. 🚀 
