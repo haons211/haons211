@@ -29,12 +29,4 @@ Feel free to explore my projects, reach out for collaborations, or just chat abo
 - [Vocabulary Saver and Translator](https://github.com/haons211/vocab-save-browser-extension) 🌐 - A browser extension to save vocabulary to Google Sheets for easy tracking. 🚀 
 - [TK_Ecommerce](https://github.com/haons211/TK_Ecommerce) 🛍️ - A Java Spring Boot monolithic eCommerce project designed for seamless online shopping experiences. 🚀 
 - [Attendance System](https://github.com/haons211/AttendanceSWP391) 🕒 - A time attendance system built with Java Servlet, designed for efficient work time management. 🚀 
-### 📈 GitHub Stats
 
-![vietanhdev's Stats](https://github-readme-stats.vercel.app/api?username=haons211&theme=default&show_icons=true&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haons211&layout=compact&theme=default&hide_border=false)
-
-### 🤝 Let's Connect!
-- Open for collaborations on software projects.
-- Interested in knowledge sharing.
-- Available for technical consulting and speaking engagements.
