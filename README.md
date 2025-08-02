@@ -12,4 +12,9 @@ Hey there! 👋 I'm a passionate Software Engineer who loves building scalable a
 
 Feel free to explore my projects, reach out for collaborations, or just chat about Technology - I'm always excited to connect with fellow tech enthusiasts! 🚀
 
-
+2025 objectives
+```
+- Solve 100 LeetCode problems
+- Achieve a TOEIC score of 900
+- Learn the fundamentals of Linux & Networking
+```
